@@ -7,7 +7,7 @@ Telegram bot for changing the voice in a voice message or audio recording, with 
 
 ## Deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soebb/spotify_downloader_telegram__bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Soebb/voiceChanger)
 
 
 ## Deploy locally:
